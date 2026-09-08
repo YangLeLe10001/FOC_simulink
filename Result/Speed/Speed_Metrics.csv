@@ -1,0 +1,2 @@
+Startup_Peak_rpm,Startup_Overshoot_pct,Startup_SettlingTime_s,Step_Peak_rpm,Step_Overshoot_pct,Step_SettlingTime_s,Load_MinSpeed_rpm,Load_SpeedDrop_rpm,Load_RecoveryTime_s,Final_Speed_rpm,Final_SpeedError_rpm,Peak_iq_A,Loaded_iq_A,Peak_Te_Nm,Loaded_Te_Nm
+1000.00135937692,0.00013593769185718,0.2296,1500.01405897536,0.00281179507119305,0.1976,1457.70752102412,42.2924789758763,0.946400000000001,1494.60265144734,5.39734855265674,10,2.18117186940203,16.371,3.57079646739807

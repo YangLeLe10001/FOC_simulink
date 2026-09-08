@@ -1,0 +1,2 @@
+First_Peak_rad,First_Overshoot_pct,First_SettlingTime_s,Second_Peak_rad,Second_Overshoot_pct,Second_SettlingTime_s,Load_MinPosition_rad,Load_MaxDeviation_rad,Load_RecoveryTime_s,Final_Position_rad,Final_PositionError_rad,Peak_Speed_rpm,Peak_iq_A,Peak_Te_Nm
+6.55274687648877,4.29020562231653,0.4252,12.8359333985017,4.2902249569898,0.4252,12.101972778189,0.464397836170201,1.4555,12.5084770956763,0.0578935186828199,386.143792698728,10,16.371
